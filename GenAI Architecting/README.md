@@ -11,7 +11,7 @@ They have 300 active students who are located within the city of Nagasaki.
 
 ## Assumptions
 
-We are assuming that the Open-source LLMs that we choose will be powerfull enough to run on harware with an investment of 10 - 15K.
+We are assuming that the Open-source LLMs that we choose will be powerfull enough to run on hardware with an investment of 10 - 15K.
 
 We're just going to hook up a single serve in our office to the Internet and we should have enough bandwidth to serve the 300 students.
 
